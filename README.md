@@ -45,6 +45,21 @@
 3. bug branch
 4. hotfix branch
 
+### Deploy
+* We deploy throught he chat room
+* We deploy about 1-10 times a day, depending on the amount of fixes and new features
+* The decision for deploying many times is so we see a change in performance
+
+### Monitoring
+* We monitor almost everything
+* broken CSS/JS
+* status of the workers
+* AVG response time after deploy
+* deploy is monitored in NewRelic, and in Airbrake.
+* AVG response time of the app, 5 checkins a minute etc...
+
+
+
 ### GBOT
 * Based on hubot by github
 * So many addons by us as the company grew, some are humor some are useful
