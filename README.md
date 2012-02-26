@@ -46,5 +46,7 @@
 4. hotfix branch
 
 ### GBOT
-1. talk about why is it awesome
-2. talk about how it's built, how we use it, why we use it and how much we love it.
+* Based on hubot by github
+* So many addons by us as the company grew, some are humor some are useful
+* talk about why is it awesome
+* talk about how it's built, how we use it, why we use it and how much we love it.
