@@ -45,6 +45,12 @@
 3. bug branch
 4. hotfix branch
 
+### Challenges
+* Real time updates
+* Real time updates from 3rd party apps
+* Keeping the API online at all times
+
+
 ### Deploy
 * We deploy throught he chat room
 * We deploy about 1-10 times a day, depending on the amount of fixes and new features
